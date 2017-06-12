@@ -604,7 +604,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "ci-example/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.haydar.ci-example.ci-example";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.haydar.ci-example";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -617,7 +617,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "ci-example/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.haydar.ci-example.ci-example";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.haydar.ci-example";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -700,6 +700,7 @@
 				B0CCD4681EEEBE3A00D5A26E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B0CCD4691EEEBE3A00D5A26E /* Build configuration list for PBXNativeTarget "ci-exampleTests" */ = {
 			isa = XCConfigurationList;
@@ -708,6 +709,7 @@
 				B0CCD46B1EEEBE3A00D5A26E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B0CCD46C1EEEBE3A00D5A26E /* Build configuration list for PBXNativeTarget "ci-exampleUITests" */ = {
 			isa = XCConfigurationList;
@@ -716,6 +718,7 @@
 				B0CCD46E1EEEBE3A00D5A26E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
